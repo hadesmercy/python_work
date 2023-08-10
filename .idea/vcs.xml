@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/爬虫/上海/pywork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/爬虫/兰州/lianjia_scrapy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/爬虫/北京/pywork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/爬虫/广州/pywork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/爬虫/深圳/pywork" vcs="Git" />
+  </component>
+</project>
